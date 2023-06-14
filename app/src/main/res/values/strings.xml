@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lion School</string>
+    <string name="title_activity_turma">TurmaActivity</string>
+    <string name="title_activity_aluno">AlunoActivity</string>
+
+
+</resources>
